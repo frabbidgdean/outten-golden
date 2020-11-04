@@ -1,0 +1,14 @@
+uuid: 58b3d901-5779-4be2-87fd-ffe2ba0958bf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - frabbi@dgdean.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''

@@ -1,0 +1,14 @@
+uuid: f05defa9-cbf7-4831-bed3-00194666b203
+name: outten-golden
+mail: frabbi@dgdean.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
